@@ -12,7 +12,7 @@
 </br>
 
 # Main-Project 👋
-
+* [3일차 리뷰 (08.22 ~ 08.24)](https://github.com/kanghyew0n/Project-REVIEW/blob/main/Main%20Project%20Review/6%EC%9D%BC%EC%B0%A8%20%EB%A6%AC%EB%B7%B0%20(09.07%20~%2009.17).md)
 
 </br>
 </br>
